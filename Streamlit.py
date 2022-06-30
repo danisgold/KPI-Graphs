@@ -24,8 +24,6 @@ for uploaded_file in uploaded_files:
 
 
 #Key Data Asset and Evaluation Metrics
-pip install numpy
-pip install matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 
